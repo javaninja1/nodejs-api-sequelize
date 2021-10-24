@@ -1,0 +1,27 @@
+GET http://localhost:3000/api/books
+
+###
+
+POST http://localhost:3000/api/books
+Content-Type: application/json
+
+{
+    "title": "book 567"
+}
+
+###
+GET http://localhost:3000/api/books/2
+
+###
+DELETE http://localhost:3000/api/books/4
+Content-Type: application/json
+
+###
+
+PUT http://localhost:3000/api/books
+Content-Type: application/json
+
+{
+    "title": "book 2222",
+    "id": "4"
+}

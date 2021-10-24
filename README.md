@@ -1,10 +1,9 @@
 ```
 npm init
-
 npm i express sequelize mysql2 sequelize-cli
+sequelize-cli init
 
 ```
-## sequelize init
 
 ## Add models/book.js
 

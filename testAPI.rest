@@ -6,8 +6,15 @@ POST http://localhost:3000/api/books
 Content-Type: application/json
 
 {
-    "title": "book 567"
+    "title": "A Tale of Two Cities"
 }
+
+
+
+
+
+
+
 
 ###
 GET http://localhost:3000/api/books/2

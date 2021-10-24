@@ -4,8 +4,7 @@
     "password": "",
     "database": "book_db",
     "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorAliases": 0
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
